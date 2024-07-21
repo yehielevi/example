@@ -1,3 +1,3 @@
-#example read me
+#example
 
 some description
